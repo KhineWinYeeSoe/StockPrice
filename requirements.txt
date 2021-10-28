@@ -54,7 +54,6 @@ pkginfo==1.7.0
 ply==3.11
 protobuf==3.19.0
 pycosat==0.6.3
-pycurl==7.43.0.6
 pydeck==0.7.1
 pyodbc===4.0.0-unsupported
 pyreadline==2.1
